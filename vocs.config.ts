@@ -6,7 +6,11 @@ export default defineConfig({
     light: '/img/logo-black.svg',
     dark: '/img/logo-white.svg',
   },
+  socials: [
+    { icon: 'github', link: 'https://github.com/MetaFi-labs' },
+    { icon: 'x', link: 'https://x.com/genericmoney' },
+  ],
   title: 'Generic Blog',
-  description: 'The official blog of Generic Protocol, neutral infrastructure for yield-generating and natively-private stablecoins.',
-  ogImageUrl: 'https://vocs.dev/api/og?logo=%logo&title=%title&description=%description',
+  description: 'The blog of Generic Protocol, neutral infrastructure for yield-generating and natively-private stablecoins.',
+  ogImageUrl: 'https://generic-blog-gamma.vercel.app/img/og-image.png',
 })
