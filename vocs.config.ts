@@ -7,7 +7,7 @@ export default defineConfig({
     dark: '/img/logo-white.svg',
   },
   socials: [
-    { icon: 'github', link: 'https://github.com/MetaFi-labs' },
+    { icon: 'github', link: 'https://github.com/generic-money' },
     { icon: 'x', link: 'https://x.com/genericmoney' },
   ],
   title: 'Generic Blog',
