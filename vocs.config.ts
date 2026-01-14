@@ -6,4 +6,5 @@ export default defineConfig({
     light: '/img/logo-black.svg',
     dark: '/img/logo-white.svg',
   },
+  title: 'Generic Blog',
 })
