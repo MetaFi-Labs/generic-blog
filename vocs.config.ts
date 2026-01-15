@@ -6,6 +6,9 @@ export default defineConfig({
     light: '/img/logo-black.svg',
     dark: '/img/logo-white.svg',
   },
+  topNav: [
+    { text: 'generic.money', link: 'https://generic.money' },
+  ],
   socials: [
     { icon: 'github', link: 'https://github.com/generic-money' },
     { icon: 'x', link: 'https://x.com/genericmoney' },
